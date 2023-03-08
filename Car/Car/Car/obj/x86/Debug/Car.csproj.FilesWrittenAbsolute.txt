@@ -1,0 +1,5 @@
+/home/alexander/Desktop/Car/Car/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alexander/Desktop/Car/Car/bin/Debug/Car.exe.mdb
+/home/alexander/Desktop/Car/Car/bin/Debug/Car.exe
+/home/alexander/Desktop/Car/Car/obj/x86/Debug/Car.exe
+/home/alexander/Desktop/Car/Car/obj/x86/Debug/Car.exe.mdb

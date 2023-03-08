@@ -1,0 +1,7 @@
+/home/alexander/Desktop/BinTree/BinTree/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alexander/Desktop/BinTree/BinTree/bin/Debug/Tree.dll
+/home/alexander/Desktop/BinTree/BinTree/bin/Debug/Tree.dll.mdb
+/home/alexander/Desktop/BinTree/BinTree/bin/Debug/BinTree.exe.mdb
+/home/alexander/Desktop/BinTree/BinTree/bin/Debug/BinTree.exe
+/home/alexander/Desktop/BinTree/BinTree/obj/x86/Debug/BinTree.exe
+/home/alexander/Desktop/BinTree/BinTree/obj/x86/Debug/BinTree.exe.mdb
