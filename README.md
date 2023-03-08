@@ -1,2 +1,3 @@
 # Csharp-projects
- C# projects
+
+Various small C# projects dating all the way back to 2017
